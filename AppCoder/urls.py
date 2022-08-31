@@ -5,4 +5,4 @@ urlpatterns = [
     path('Familiares/', Familiares, name= "Familiares"),
     path('', inicio),
     
-]
+] 
